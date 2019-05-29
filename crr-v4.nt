@@ -27,7 +27,6 @@ _:N65fa035ebbd04c9088277a5caf142f31 <http://www.w3.org/2002/07/owl#someValuesFro
 <http://vocab.resc.info/crr#Elevator> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr#BuildingFeatures> .
 <http://vocab.resc.info/crr#BuildingOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr#Media> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://vocab.resc.info/crr#Media> <http://www.w3.org/1999/02/22-rdf-syntax-ns#label> "Media" .
 <http://vocab.resc.info/crr#DrillPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 _:Nbc9179395d244f39926640afe97cfcee <http://www.w3.org/2002/07/owl#onProperty> <http://vocab.resc.info/crr#follow-up> .
 <http://vocab.resc.info/crr#Owner> <http://www.w3.org/2000/01/rdf-schema#label> "Owner"@en .
@@ -182,6 +181,7 @@ _:Nbc9179395d244f39926640afe97cfcee <http://www.w3.org/1999/02/22-rdf-syntax-ns#
 <http://vocab.resc.info/crr#locationOfEducation> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.resc.info/crr#Education> .
 <http://vocab.resc.info/crr#ConstructionChange> <http://www.w3.org/2000/01/rdf-schema#label> "Construction Change"@en .
 <http://vocab.resc.info/crr#actionTaken> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.resc.info/crr#Event> .
+<http://vocab.resc.info/crr#actionTaken> <http://schema.org/domainIncludes> <http://vocab.resc.info/crr#Event> .
 <http://vocab.resc.info/crr#mediaSubject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <http://vocab.resc.info/crr#CPRTraining> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr#Training> .
 <http://vocab.resc.info/crr#hasViolation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
