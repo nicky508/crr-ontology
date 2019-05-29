@@ -4,6 +4,7 @@
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://www.w3.org/2000/01/rdf-schema#comment> "A pouch is an entity we use to logically group data elements together for the role in the logistics chain that predominantly would provide the data.  It is intended to enably a quick access to schema needed. For the Cargo Handlers Pouch, you will find data typically from the following documents; TBD." .
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://www.w3.org/2000/01/rdf-schema#label> "Community Risk Reduction Pouch" .
+<http://vocab.resc.info/pouch/CommunityRiskReduction> <http://purl.org/dc/terms/modified> "2019-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://schema.org/hasPart> <http://vocab.resc.info/crr#Event> .
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://schema.org/hasPart> <http://vocab.resc.info/crr#Data>  .
 <http://vocab.resc.info/pouch/CommunityRiskReduction> <http://schema.org/hasPart> <http://vocab.resc.info/crr#Place>  .
