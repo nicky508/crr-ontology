@@ -418,6 +418,9 @@ _:N9c17667a18c34413b3ac9842ff615dab <http://www.w3.org/2002/07/owl#someValuesFro
 <http://vocab.resc.info/crr#Training> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr#represents> <http://www.w3.org/2000/01/rdf-schema#range> <http://vocab.resc.info/crr#Organization> .
 <http://vocab.resc.info/crr#actionTaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://vocab.resc.info/crr#actionTaken> <http://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<http://vocab.resc.info/crr#actionTaken> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://vocab.resc.info/crr#actionTaken> <http://www.w3.org/2000/01/rdf-schema#label> "action taken" .
 <http://vocab.resc.info/crr#Sign> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr#FireProtectionFeatures> .
 <http://vocab.resc.info/crr#Storage_Violation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr#hasViolation> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.resc.info/crr#Inspection> .
