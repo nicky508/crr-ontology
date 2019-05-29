@@ -27,6 +27,7 @@ _:N65fa035ebbd04c9088277a5caf142f31 <http://www.w3.org/2002/07/owl#someValuesFro
 <http://vocab.resc.info/crr#Elevator> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr#BuildingFeatures> .
 <http://vocab.resc.info/crr#BuildingOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr#Media> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://vocab.resc.info/crr#Media> <http://www.w3.org/1999/02/22-rdf-syntax-ns#label> "Media" .
 <http://vocab.resc.info/crr#DrillPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 _:Nbc9179395d244f39926640afe97cfcee <http://www.w3.org/2002/07/owl#onProperty> <http://vocab.resc.info/crr#follow-up> .
 <http://vocab.resc.info/crr#Owner> <http://www.w3.org/2000/01/rdf-schema#label> "Owner"@en .
