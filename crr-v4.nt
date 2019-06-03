@@ -8,16 +8,6 @@ _:N65fa035ebbd04c9088277a5caf142f31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#
 <http://vocab.resc.info/crr/firesafetyEducator> <http://www.w3.org/2000/01/rdf-schema#domain> _:Nbc9179395d244f39926640afe97cfcee .
 <http://vocab.resc.info/crr/Burn_Permit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr/CO_Alarm> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/FireProtectionFeatures> .
-<http://vocab.resc.info/crr/Occupant> <http://www.w3.org/2000/01/rdf-schema#label> <http://vocab.resc.info/crr/FireDepartmentAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://vocab.resc.info/crr/PoorInstallation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://vocab.resc.info/crr/Investigator> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/FireDepartment> .
-_:N65fa035ebbd04c9088277a5caf142f31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-<http://vocab.resc.info/crr/NFIRSData> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://vocab.resc.info/crr/permittedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.resc.info/crr/Permit> .
-<http://vocab.resc.info/crr/inspectionComplete> <http://www.w3.org/2000/01/rdf-schema#range> _:N8def5049fec44a01949b6bbffd9e081a .
-<http://vocab.resc.info/crr/firesafetyEducator> <http://www.w3.org/2000/01/rdf-schema#domain> _:Nbc9179395d244f39926640afe97cfcee .
-<http://vocab.resc.info/crr/Burn_Permit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<http://vocab.resc.info/crr/CO_Alarm> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/FireProtectionFeatures> .
 <http://vocab.resc.info/crr/Occupant> <http://www.w3.org/2000/01/rdf-schema#label> "Occupant"@en .
 <http://vocab.resc.info/crr/Event> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr/hasSmokeAlarm> <http://www.w3.org/2000/01/rdf-schema#range> <http://vocab.resc.info/crr/SmokeAlarm> .
