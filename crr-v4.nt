@@ -496,6 +496,7 @@ _:Na372a2491e1944158b76adfc8948488c <http://www.w3.org/2002/07/owl#someValuesFro
 <http://vocab.resc.info/crr/TI_Permit> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/Permit> .
 <http://vocab.resc.info/crr/Neighborhood_Canvassing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr/Inspection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/Event> .
+<http://vocab.resc.info/crr/Inspection> <http://www.w3.org/2000/01/rdf-schema#label> "Inspection"@en .
 <http://vocab.resc.info/crr/Middle_School_Program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
 <http://vocab.resc.info/crr/Sprinkler_Violation> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://vocab.resc.info/crr/Violation> .
 _:Na372a2491e1944158b76adfc8948488c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
